@@ -1,0 +1,2 @@
+Audit: https://solidity.finance/audits/Portify/
+KYC: https://twitter.com/passorfailme/status/1430941579892637708
